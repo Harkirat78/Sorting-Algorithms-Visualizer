@@ -1,4 +1,4 @@
-##Sorting Visualizer
+###Sorting Visualizer
 
 A web application showcasing the inner workings of sorting algorithms. Built using React, this tool provides a comprehensive visual insight into the step-by-step procedures of various sorting methodologies.
 
