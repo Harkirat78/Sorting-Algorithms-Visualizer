@@ -22,7 +22,7 @@ Green: Marks an element that is correctly positioned.
 Visualization Controls:
 There are three main controls for tailoring your visualization experience:
 
-## Speed of Visualization: Offers 5 distinct speed levels, allowing users to adjust the pace of sorting animation.
+## Speed of Visualization: Offers distinct speed levels, allowing users to adjust the pace of sorting animation.
 Data Size Control: Users can modify the data size for a customized experience.
 Data Regeneration: This control allows users to randomly generate new data for sorting.
 Complexity Display:
