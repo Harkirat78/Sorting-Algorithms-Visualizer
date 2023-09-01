@@ -32,5 +32,5 @@ For each sorting algorithm, the application displays the associated Time and Spa
 
 The Sorting Visualizer uses React, a popular JavaScript library, to efficiently update and render the necessary components. The modularity of React components provides a clean and understandable code structure, facilitating easier additions and updates to the project in the future.
 
-# Live Version:
+# Live Version: harkirat78.github.io/sorting-visualizer/
 
