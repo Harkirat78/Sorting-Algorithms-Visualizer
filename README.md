@@ -2,6 +2,8 @@
 
 A web application showcasing the inner workings of sorting algorithms. Built using React, this tool provides a comprehensive visual insight into the step-by-step procedures of various sorting methodologies.
 
+## Live Version: https://harkirat78.github.io/Sorting-Algorithms-Visualizer/
+
 Implemented Algorithms:
 
 Bubble sort
@@ -32,5 +34,5 @@ For each sorting algorithm, the application displays the associated Time and Spa
 
 The Sorting Visualizer uses React, a popular JavaScript library, to efficiently update and render the necessary components. The modularity of React components provides a clean and understandable code structure, facilitating easier additions and updates to the project in the future.
 
-# Live Version: harkirat78.github.io/sorting-visualizer/
+
 
